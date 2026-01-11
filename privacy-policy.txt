@@ -1,0 +1,13 @@
+Privacy Policy – NotebookLM URL Copier
+
+This extension collects the URLs of web pages visited by the user only when the user explicitly enables recording.
+
+All collected data is stored locally on the user's device using Chrome's storage API.
+
+No data is transmitted, shared, sold, or sent to any external server or third party.
+
+No personally identifiable information is collected.
+
+Users can delete all stored data at any time using the "Clear URLs" button in the extension.
+
+If you have questions, contact: tejasmondeeris28@gmail.com
